@@ -1,9 +1,1 @@
-Step 1 :
-Streamlit Must Be Installed On Your Vs Studio OR This Will Not Work
-Step 2 :
-Create a new terminal and write This code:
-pip install streamlit
-Step 3 :
-Create a file only can be worked with py like app.py
-Step 4 : 
-Paste the code in your vs studio file .py
+Streamlit
